@@ -1,0 +1,4 @@
+
+alio version 1.0.2
+
+-added a "are you sure?" button on quit
